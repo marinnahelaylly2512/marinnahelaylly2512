@@ -1,1 +1,1 @@
-<img src="github-header-banner"/>
+<img src="github-header-banner (2)"/>
